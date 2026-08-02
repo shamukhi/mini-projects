@@ -51,6 +51,4 @@ mini-projects/
    ```
 3. Open the `.ipynb` file in Jupyter or Google Colab and run the cells
 
-## License
 
-Unless noted otherwise inside an individual project folder, code in this repository is available under the MIT License.
