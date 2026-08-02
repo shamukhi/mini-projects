@@ -11,7 +11,6 @@ A collection of small, self-contained machine learning and data science projects
 | [pantheon-project](./pantheon-project) | EDA on ~11,000 historical figures, exploring fame, occupation, geography, and time via static and interactive visualizations. | pandas, Plotly |
 | [spotify-dataset-analysis](./spotify-dataset-analysis) | EDA on Spotify track/artist metadata, exploring popularity, genre, and release trends over time. | pandas, Plotly, Altair |
 
-*(More projects will be added here over time.)*
 
 ## Structure
 
